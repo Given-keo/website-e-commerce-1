@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://given-keo.github.io/web-ecommerce-gabut/",
+  "homepage": "",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
