@@ -49,7 +49,7 @@ const Navbar = () => {
               placeholder="Pencarian..."
               className="pl-3 pr-10 py-1 rounded-full border border-gray-300 dark:border-gray-700 bg-gray-100 dark:bg-gray-800 text-gray-800 dark:text-gray-200 
              w-40 focus:w-64 transition-all duration-300 ease-in-out
-             focus:outline-none focus:ring-2 focus:ring-blue-500"
+             focus:outline-none focus:ring-2 focus:ring-blue-500 sm:w-[400px]"
             />
 
             <svg xmlns="http://www.w3.org/2000/svg" className="w-5 h-5 absolute right-3 top-2 text-gray-500 dark:text-gray-300" fill="none" viewBox="0 0 24 24" stroke="currentColor">
